@@ -1,0 +1,5 @@
+com\iaai\chaoxing\chaoxingsignweb\controller\AuthController.class
+com\iaai\chaoxing\chaoxingsignweb\model\UserController.class
+com\iaai\chaoxing\chaoxingsignweb\ChaoxingSignWebApplication.class
+com\iaai\chaoxing\chaoxingsignweb\model\JsonRequest.class
+com\iaai\chaoxing\chaoxingsignweb\model\UserLogin.class
