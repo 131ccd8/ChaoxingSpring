@@ -1,7 +1,7 @@
 ## 📌 项目简介
 **ChaoxingSign** (Spring版) 是基于Java Spring boot框架开发的自动签到工具，帮助用户自动化完成课程签到流程，适用于学生和教师群体。项目开源免费，支持自定义配置，预计只会支持安卓端使用。
 
-网页版本请链接到：
+网页版本请链接到：https://github.com/131ccd8/ChaoxingSign
 
 联系我们：869744971
 
